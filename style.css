@@ -35,7 +35,7 @@ body {
     list-style: 1.4;
     font-style: italic;
     text-align: center;
-    margin: 30px auto 0 auto;
+    margin: -30px auto 0 auto;
     font-family: 'Yatra One', system-ui;
   }
   
@@ -43,6 +43,11 @@ body {
     font-size: 1.5em;
     margin: 60px auto 60px auto;
   }
+
+  .birthday-card .text .quotes {
+        font-size: 0.7em;
+        margin: 60px auto 60px auto;
+      }
   
   .birthday-card .cover-outer {
     position: absolute;
